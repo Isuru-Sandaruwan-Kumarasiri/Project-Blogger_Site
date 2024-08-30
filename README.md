@@ -33,5 +33,5 @@ This is a full-featured blogging website built with the MERN stack (MongoDB, Exp
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/blogging-website.git
-   cd blogging-website
+  [ git clone https://github.com/your-username/blogging-website.git
+   cd blogging-website](https://github.com/Isuru-Sandaruwan-Kumarasiri/Project-Blogger_Site.git)
